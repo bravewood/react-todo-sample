@@ -1,4 +1,4 @@
-# Sample of Todolist usign React.js
+# Sample of Todolist using React.js
 This is just a sample using React.js and ES2015.
 
 ## Required software
@@ -10,11 +10,11 @@ This is just a sample using React.js and ES2015.
 npm install 
 ```
 
-## Use this
-Open the public/index.html by a browser.
-
 ## build
 ```
 npm run watch
 ```
+
+## Use this
+Open the public/index.html by a browser.
 
