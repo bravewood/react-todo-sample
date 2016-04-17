@@ -15,6 +15,6 @@ Open the public/index.html by a browser.
 
 ## build
 ```
-webpack -d --watch
+npm run watch
 ```
 
